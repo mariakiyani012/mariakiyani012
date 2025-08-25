@@ -11,11 +11,11 @@ I'm passionate about building AI-driven solutions that merge machine learning, d
 - Experienced in **LLMs, RAG pipelines, Speech-to-Text (STT) systems, and Agentic AI applications**.  
 - Skilled in **Python, Django, FastAPI, TensorFlow, PyTorch, HuggingFace, LangChain, and Docker**.  
 - Enthusiast of **Data Analysis, Visualization, and Insight Extraction** using **Pandas, NumPy, Power BI, and SQL**.  
-- Graduate in **Computer Engineering** from UET Taxila.  
+- Graduate in **Computer Engineering** from UET Taxila.
+- [Portfolio](https://mariakiyani012.github.io/my_portfolio_website/)  
 
 ---
 
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/maria-aftab-kiyani/)  
-- [GitHub](https://github.com/mariakiyani012)  
-- [Portfolio](https://mariakiyani012.github.io/my_portfolio_website/)  
+- [Mail](mkiyani@012@gmail.com)  
