@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Maria Aftab
 
-<!--
-**mariakiyani012/mariakiyani012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer | Machine Learning Researcher | Data Scientist**
 
-Here are some ideas to get you started:
+I'm passionate about building AI-driven solutions that merge machine learning, deep learning, and computer vision with real-world applications. My work spans fine-tuning state-of-the-art models, developing scalable web applications, and creating intelligent systems for healthcare, speech processing, and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+- Currently working as an **AI Engineer** at CareCloud, Islamabad.  
+- Experienced in **LLMs, RAG pipelines, Speech-to-Text (STT) systems, and Agentic AI applications**.  
+- Skilled in **Python, Django, FastAPI, TensorFlow, PyTorch, HuggingFace, LangChain, and Docker**.  
+- Enthusiast of **Data Analysis, Visualization, and Insight Extraction** using **Pandas, NumPy, Power BI, and SQL**.  
+- Graduate in **Computer Engineering** from UET Taxila.  
+
+---
+
+## Technical Skills
+- **Languages & Frameworks:** Python, SQL, Django, FastAPI, Flask, PostgreSQL  
+- **AI & ML:** TensorFlow, PyTorch, HuggingFace, LangChain, LangGraph, LLMs (GPT, Gemini, LLaMA 2)  
+- **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, SQL Server, MongoDB  
+- **DevOps & Deployment:** Docker, Docker-Compose, Streamlit, Azure DevOps, AWS (EC2, Bedrock, S3)  
+
+---
+
+## Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/maria-aftab-kiyani/)  
+- [GitHub](https://github.com/mariakiyani012)  
+- [Portfolio](https://mariakiyani012.github.io/my_portfolio_website/)  
+
+---
+
+### "Building intelligent systems that solve real problems and empower people."
