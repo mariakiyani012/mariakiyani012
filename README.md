@@ -1,6 +1,6 @@
 # Hi, I'm Maria Aftab
 
-**AI Engineer | Machine Learning Researcher | Data Scientist**
+**AI Engineer | Machine Learning Researcher**
 
 I build AI-driven solutions that merge machine learning, deep learning, and computer vision with real-world applications. My work spans fine-tuning state-of-the-art models, developing scalable web applications, and designing intelligent systems leveraging RAG pipelines, agentic workflows, and advanced language models for healthcare, speech processing, and automation.
 
