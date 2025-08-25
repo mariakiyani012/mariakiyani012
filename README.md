@@ -15,19 +15,7 @@ I'm passionate about building AI-driven solutions that merge machine learning, d
 
 ---
 
-## Technical Skills
-- **Languages & Frameworks:** Python, SQL, Django, FastAPI, Flask, PostgreSQL  
-- **AI & ML:** TensorFlow, PyTorch, HuggingFace, LangChain, LangGraph, LLMs (GPT, Gemini, LLaMA 2)  
-- **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, SQL Server, MongoDB  
-- **DevOps & Deployment:** Docker, Docker-Compose, Streamlit, Azure DevOps, AWS (EC2, Bedrock, S3)  
-
----
-
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/maria-aftab-kiyani/)  
 - [GitHub](https://github.com/mariakiyani012)  
 - [Portfolio](https://mariakiyani012.github.io/my_portfolio_website/)  
-
----
-
-### "Building intelligent systems that solve real problems and empower people."
