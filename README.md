@@ -15,6 +15,6 @@ I build AI-driven solutions that merge machine learning, deep learning, and comp
 ---
 
 ## Connect With Me
-- **Email:** mkiyani012@gmail.com 
+- mkiyani012@gmail.com 
 - [LinkedIn](https://www.linkedin.com/in/maria-aftab-kiyani/)  
 - [Portfolio](https://mariakiyani012.github.io/my_portfolio_website/)  
